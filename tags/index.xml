@@ -1,26 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on The Geek Trading Co</title>
+    <title>Tags on The Geek Trading Co.</title>
     <link>https://geektradingco.github.io/tags/</link>
-    <description>Recent content in Tags on The Geek Trading Co</description>
+    <description>Recent content in Tags on The Geek Trading Co.</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://geektradingco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 07 Sep 2022 20:48:37 +1000</lastBuildDate><atom:link href="https://geektradingco.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>cadia</title>
-      <link>https://geektradingco.github.io/tags/cadia/</link>
+      <title>exterminatus</title>
+      <link>https://geektradingco.github.io/tags/exterminatus/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://geektradingco.github.io/tags/cadia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>dakka</title>
-      <link>https://geektradingco.github.io/tags/dakka/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://geektradingco.github.io/tags/dakka/</guid>
+      <guid>https://geektradingco.github.io/tags/exterminatus/</guid>
       <description></description>
     </item>
     
@@ -34,6 +26,24 @@
     </item>
     
     <item>
+      <title>grimdark scifi</title>
+      <link>https://geektradingco.github.io/tags/grimdark-scifi/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geektradingco.github.io/tags/grimdark-scifi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>keep calm</title>
+      <link>https://geektradingco.github.io/tags/keep-calm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://geektradingco.github.io/tags/keep-calm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>nuffle</title>
       <link>https://geektradingco.github.io/tags/nuffle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,29 +53,11 @@
     </item>
     
     <item>
-      <title>ork</title>
-      <link>https://geektradingco.github.io/tags/ork/</link>
+      <title>stickers</title>
+      <link>https://geektradingco.github.io/tags/stickers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://geektradingco.github.io/tags/ork/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>sticker</title>
-      <link>https://geektradingco.github.io/tags/sticker/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://geektradingco.github.io/tags/sticker/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>tshirt</title>
-      <link>https://geektradingco.github.io/tags/tshirt/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://geektradingco.github.io/tags/tshirt/</guid>
+      <guid>https://geektradingco.github.io/tags/stickers/</guid>
       <description></description>
     </item>
     

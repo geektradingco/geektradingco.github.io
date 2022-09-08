@@ -2,36 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://geektradingco.github.io/tags/cadia/</loc>
+    <loc>https://geektradingco.github.io/search/</loc>
+    <lastmod>2022-09-07T21:06:41+10:00</lastmod>
+  </url><url>
+    <loc>https://geektradingco.github.io/</loc>
+    <lastmod>2022-09-07T20:48:37+10:00</lastmod>
+    <priority>0</priority>
+  </url><url>
+    <loc>https://geektradingco.github.io/tags/</loc>
+    <lastmod>2022-09-07T20:48:37+10:00</lastmod>
+  </url><url>
+    <loc>https://geektradingco.github.io/tshirts/cadia/</loc>
   </url><url>
     <loc>https://geektradingco.github.io/categories/</loc>
   </url><url>
-    <loc>https://geektradingco.github.io/tags/dakka/</loc>
+    <loc>https://geektradingco.github.io/contact/</loc>
+  </url><url>
+    <loc>https://geektradingco.github.io/stickers/exterminatus/</loc>
+  </url><url>
+    <loc>https://geektradingco.github.io/tags/exterminatus/</loc>
   </url><url>
     <loc>https://geektradingco.github.io/tags/fantasy-football/</loc>
   </url><url>
-    <loc>https://geektradingco.github.io/tshirt/dakka/</loc>
+    <loc>https://geektradingco.github.io/tags/grimdark-scifi/</loc>
+  </url><url>
+    <loc>https://geektradingco.github.io/tags/keep-calm/</loc>
+  </url><url>
+    <loc>https://geektradingco.github.io/tshirts/dakka/</loc>
+  </url><url>
+    <loc>https://geektradingco.github.io/stickers/rolldoublepow/</loc>
+  </url><url>
+    <loc>https://geektradingco.github.io/stickers/nuffle/</loc>
   </url><url>
     <loc>https://geektradingco.github.io/tags/nuffle/</loc>
   </url><url>
-    <loc>https://geektradingco.github.io/sticker/nuffle/</loc>
+    <loc>https://geektradingco.github.io/stickers/</loc>
   </url><url>
-    <loc>https://geektradingco.github.io/tshirt/nuffle/</loc>
+    <loc>https://geektradingco.github.io/tags/stickers/</loc>
   </url><url>
-    <loc>https://geektradingco.github.io/tags/ork/</loc>
+    <loc>https://geektradingco.github.io/tshirts/</loc>
   </url><url>
-    <loc>https://geektradingco.github.io/tags/sticker/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tshirt/cadia/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/sticker/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tshirt/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/tshirt/</loc>
+    <loc>https://geektradingco.github.io/tshirts/the-emperor-protects/</loc>
   </url>
 </urlset>
