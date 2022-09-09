@@ -1,54 +1,122 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://geektradingco.github.io/</loc>
+    <lastmod>2022-09-08T11:12:38+10:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
   <url>
     <loc>https://geektradingco.github.io/white-dwarf-125/</loc>
     <lastmod>2022-09-08T11:12:38+10:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://geektradingco.github.io/search/</loc>
     <lastmod>2022-09-07T21:06:41+10:00</lastmod>
-  </url><url>
-    <loc>https://geektradingco.github.io/</loc>
-    <lastmod>2022-09-07T20:48:37+10:00</lastmod>
-    <priority>0</priority>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://geektradingco.github.io/tags/</loc>
     <lastmod>2022-09-07T20:48:37+10:00</lastmod>
-  </url><url>
-    <loc>https://geektradingco.github.io/about/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tshirts/blood-bowl/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/categories/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/contact/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/exterminatus/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/fantasy-football/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/grimdark-scifi/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/keep-calm/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/stickers/keep-calm-and-declare-exterminatus-sticker/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tshirts/get-more-dakka-tshirt/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/stickers/keep-calm-and-roll-double-pows-sticker/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/nuffle/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/stickers/nuffle-he-hates-me-sticker/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/stickers/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tags/stickers/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/stickers/straight-outta-cadia-sticker/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tshirts/</loc>
-  </url><url>
-    <loc>https://geektradingco.github.io/tshirts/the-emperor-protects-tshirt/</loc>
   </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tshirts/blood-bowl/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/cadia/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/dakka/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/emperor/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/exterminatus/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/fantasy-football/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/grimdark-scifi/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/keep-calm/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/stickers/keep-calm-and-declare-exterminatus-sticker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tshirts/get-more-dakka-tshirt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/stickers/rolldoublepow/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/nuffle/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/stickers/nuffle-he-hates-me-sticker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/stickers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/stickers/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/stickers/straight-outta-cadia-sticker/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tshirts/straight-outta-cadia-tshirt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tshirts/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/the-emperor-protects/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/tshirt/</loc>
+  </url>
+  
+  <url>
+    <loc>https://geektradingco.github.io/tags/tshirts/</loc>
+  </url>
+  
 </urlset>
