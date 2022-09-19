@@ -6,3 +6,17 @@ body {
 nav {
   text-align: center;
 }
+
+page-container {
+  width: 500px;
+  margin: auto;
+  border: 3px solid #73AD21;  
+}
+
+poopies1 {
+  background-color: tomato;
+  color: white;
+  border: 2px solid black;
+  margin: 20px;
+  padding: 20px;
+}
